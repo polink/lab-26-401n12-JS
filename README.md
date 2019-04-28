@@ -1,5 +1,10 @@
-***Lab-26: Frontend Tooling & React***
+# ***Lab-26: Frontend Tooling & React***
+Generate Heker Cowsay Lorem
 ---------------------------------
+Description
+---------------------------------
+This lab uses the cowsay npm module to display a silly cow. Clicking on the "Click Me!" button will her say some edgy hekerspeak.
+
 ## Author
 - Karl Polintan
 ------------------------------
