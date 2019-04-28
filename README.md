@@ -1,15 +1,8 @@
 # ***Lab-26: Frontend Tooling & React***
 ---------------------------------
----------------------------------
-# Project JOHN
----------------------------------
-## Authors
+## Author
 Karl Polintan
 ------------------------------
-
-## We are deployed on _____
-[project url here]
----------------------------------
 ## Web Application
 ***[Explain your app, should be at least a paragraph. What does it do? Why should I use? Sell your product!]***
 The web application consists of a frontend written in Razor views, HTML, CSS,
@@ -25,9 +18,9 @@ of the post) and key phrases / keywords detected in the posts. Optionally, users
 can choose to opt-out of these features for privacy or data collection concerns.
 ---------------------------------
 ## Tools Used
-Microsoft Visual Studio
+Webstorm
 - NodeJS
-- Express 
+- React
 ---------------------------------
 ## Getting Started
 Clone this repository to your local machine.
